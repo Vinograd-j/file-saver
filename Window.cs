@@ -12,9 +12,6 @@ namespace file_saver
             InitializeComponent();
 
             _reader = new Reader();
-
-            Exception.Text = "Ошибка! Какой-то из параметров не задан! Запуск невозможен";
-            Exception.Visible = false;
         }
 
         private void OnMusicButtonClick(object sender, EventArgs e)

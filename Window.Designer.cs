@@ -93,10 +93,12 @@
             // Exception
             // 
             Exception.AutoSize = true;
-            Exception.Location = new Point(134, 212);
+            Exception.Location = new Point(131, 209);
             Exception.Name = "Exception";
-            Exception.Size = new Size(0, 15);
+            Exception.Size = new Size(342, 15);
             Exception.TabIndex = 6;
+            Exception.Text = "Error! Some parameters are not specified! Startup is not possible";
+            Exception.Visible = false;
             // 
             // FileSaver
             // 
