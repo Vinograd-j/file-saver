@@ -46,7 +46,7 @@
             MusicFolderButton.Name = "MusicFolderButton";
             MusicFolderButton.Size = new Size(173, 23);
             MusicFolderButton.TabIndex = 1;
-            MusicFolderButton.Text = "Папка с музыкой";
+            MusicFolderButton.Text = "Music Folder";
             MusicFolderButton.UseVisualStyleBackColor = true;
             MusicFolderButton.Click += OnMusicButtonClick;
             // 
@@ -56,7 +56,7 @@
             VideoFolderButton.Name = "VideoFolderButton";
             VideoFolderButton.Size = new Size(173, 23);
             VideoFolderButton.TabIndex = 2;
-            VideoFolderButton.Text = "Папка с видео";
+            VideoFolderButton.Text = "Video Folder";
             VideoFolderButton.UseVisualStyleBackColor = true;
             VideoFolderButton.Click += OnVideoButtonClick;
             // 
@@ -66,7 +66,7 @@
             ArchiveFolderButton.Name = "ArchiveFolderButton";
             ArchiveFolderButton.Size = new Size(173, 23);
             ArchiveFolderButton.TabIndex = 3;
-            ArchiveFolderButton.Text = "Папка с архивами";
+            ArchiveFolderButton.Text = "Archive Folder";
             ArchiveFolderButton.UseVisualStyleBackColor = true;
             ArchiveFolderButton.Click += OnArchiveButtonClick;
             // 
@@ -76,7 +76,7 @@
             EnableButton.Name = "EnableButton";
             EnableButton.Size = new Size(107, 35);
             EnableButton.TabIndex = 4;
-            EnableButton.Text = "Включить";
+            EnableButton.Text = "Enable";
             EnableButton.UseVisualStyleBackColor = true;
             EnableButton.Click += OnEnableButtonClick;
             // 
@@ -86,7 +86,7 @@
             SourceDirectoryButton.Name = "SourceDirectoryButton";
             SourceDirectoryButton.Size = new Size(117, 23);
             SourceDirectoryButton.TabIndex = 5;
-            SourceDirectoryButton.Text = "Исходная папка";
+            SourceDirectoryButton.Text = "Source Directory";
             SourceDirectoryButton.UseVisualStyleBackColor = true;
             SourceDirectoryButton.Click += OnSourceDirectoryButtonClick;
             // 
